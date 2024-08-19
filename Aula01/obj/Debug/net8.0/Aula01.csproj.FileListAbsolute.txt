@@ -1,0 +1,15 @@
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\bin\Debug\net8.0\Aula01.exe
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\bin\Debug\net8.0\Aula01.deps.json
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\bin\Debug\net8.0\Aula01.runtimeconfig.json
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\bin\Debug\net8.0\Aula01.dll
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\bin\Debug\net8.0\Aula01.pdb
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\obj\Debug\net8.0\Aula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\obj\Debug\net8.0\Aula01.AssemblyInfoInputs.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\obj\Debug\net8.0\Aula01.AssemblyInfo.cs
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\obj\Debug\net8.0\Aula01.csproj.CoreCompileInputs.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\obj\Debug\net8.0\Aula01.sourcelink.json
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\obj\Debug\net8.0\Aula01.dll
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\obj\Debug\net8.0\refint\Aula01.dll
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\obj\Debug\net8.0\Aula01.pdb
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\obj\Debug\net8.0\Aula01.genruntimeconfig.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aula01\obj\Debug\net8.0\ref\Aula01.dll
