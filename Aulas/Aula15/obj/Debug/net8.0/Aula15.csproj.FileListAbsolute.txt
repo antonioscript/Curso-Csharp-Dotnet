@@ -1,0 +1,15 @@
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\bin\Debug\net8.0\Aula15.exe
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\bin\Debug\net8.0\Aula15.deps.json
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\bin\Debug\net8.0\Aula15.runtimeconfig.json
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\bin\Debug\net8.0\Aula15.dll
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\bin\Debug\net8.0\Aula15.pdb
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\obj\Debug\net8.0\Aula15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\obj\Debug\net8.0\Aula15.AssemblyInfoInputs.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\obj\Debug\net8.0\Aula15.AssemblyInfo.cs
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\obj\Debug\net8.0\Aula15.csproj.CoreCompileInputs.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\obj\Debug\net8.0\Aula15.sourcelink.json
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\obj\Debug\net8.0\Aula15.dll
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\obj\Debug\net8.0\refint\Aula15.dll
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\obj\Debug\net8.0\Aula15.pdb
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\obj\Debug\net8.0\Aula15.genruntimeconfig.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula15\obj\Debug\net8.0\ref\Aula15.dll
