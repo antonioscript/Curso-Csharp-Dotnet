@@ -1,0 +1,5 @@
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula21\obj\Debug\net8.0\Aula21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula21\obj\Debug\net8.0\Aula21.AssemblyInfoInputs.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula21\obj\Debug\net8.0\Aula21.AssemblyInfo.cs
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula21\obj\Debug\net8.0\Aula21.csproj.CoreCompileInputs.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Curso-Csharp-Dotnet\Aulas\Aula21\obj\Debug\net8.0\Aula21.sourcelink.json
