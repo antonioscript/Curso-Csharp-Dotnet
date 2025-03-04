@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\aula25\\bankterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|solutionrelative:bankterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\aula25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\aula25\\bankoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|solutionrelative:bankoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\BankOperations.cs",
+              "RelativeDocumentMoniker": "BankOperations.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\BankOperations.cs",
+              "RelativeToolTip": "BankOperations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:38:54.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankTerminal.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\BankTerminal.cs",
+              "RelativeDocumentMoniker": "BankTerminal.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\BankTerminal.cs",
+              "RelativeToolTip": "BankTerminal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T02:50:36.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T01:44:14.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
