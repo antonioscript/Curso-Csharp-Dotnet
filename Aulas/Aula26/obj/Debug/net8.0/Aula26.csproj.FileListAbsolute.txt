@@ -1,0 +1,14 @@
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\bin\Debug\net8.0\Aula26.exe
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\bin\Debug\net8.0\Aula26.deps.json
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\bin\Debug\net8.0\Aula26.runtimeconfig.json
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\bin\Debug\net8.0\Aula26.dll
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\bin\Debug\net8.0\Aula26.pdb
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\obj\Debug\net8.0\Aula26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\obj\Debug\net8.0\Aula26.AssemblyInfoInputs.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\obj\Debug\net8.0\Aula26.AssemblyInfo.cs
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\obj\Debug\net8.0\Aula26.csproj.CoreCompileInputs.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\obj\Debug\net8.0\Aula26.dll
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\obj\Debug\net8.0\refint\Aula26.dll
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\obj\Debug\net8.0\Aula26.pdb
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\obj\Debug\net8.0\Aula26.genruntimeconfig.cache
+C:\Users\Antônio Rocha\source\repos\Youtube\Aula26\obj\Debug\net8.0\ref\Aula26.dll

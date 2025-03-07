@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF1E2-26A3-4061-9955-AFB8135D537D}|Aula26.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\aula26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF1E2-26A3-4061-9955-AFB8135D537D}|Aula26.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B0AF1E2-26A3-4061-9955-AFB8135D537D}|Aula26.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\aula26\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B0AF1E2-26A3-4061-9955-AFB8135D537D}|Aula26.csproj|solutionrelative:cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cake.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula26\\Cake.cs",
+              "RelativeDocumentMoniker": "Cake.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula26\\Cake.cs",
+              "RelativeToolTip": "Cake.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:37:45.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula26\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula26\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:31:05.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

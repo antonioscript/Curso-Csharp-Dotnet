@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\",
+  "WorkspaceRootPath": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula25\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\aula25\\bankterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|solutionrelative:bankterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\aula25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\aula25\\bankoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\curso-csharp-dotnet\\aulas\\aula25\\bankoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|solutionrelative:bankoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\curso-csharp-dotnet\\aulas\\aula25\\bankterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495C09B4-76BC-44B6-8012-D970A0E0DCBE}|Aula25.csproj|solutionrelative:bankterminal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,42 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "BankOperations.cs",
-              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\BankOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula25\\BankOperations.cs",
               "RelativeDocumentMoniker": "BankOperations.cs",
-              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\BankOperations.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula25\\BankOperations.cs",
               "RelativeToolTip": "BankOperations.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T02:38:54.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BankTerminal.cs",
-              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\BankTerminal.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula25\\BankTerminal.cs",
               "RelativeDocumentMoniker": "BankTerminal.cs",
-              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\BankTerminal.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula25\\BankTerminal.cs",
               "RelativeToolTip": "BankTerminal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T02:50:36.71Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula25\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T01:44:14.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T02:50:36.71Z"
             }
           ]
         },
