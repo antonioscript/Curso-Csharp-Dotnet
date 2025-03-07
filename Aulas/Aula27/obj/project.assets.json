@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Antônio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula26\\Aula26.csproj",
-      "projectName": "Aula26",
-      "projectPath": "C:\\Users\\Antônio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula26\\Aula26.csproj",
+      "projectUniqueName": "C:\\Users\\Antônio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aula27\\Aula27.csproj",
+      "projectName": "Aula27",
+      "projectPath": "C:\\Users\\Antônio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aula27\\Aula27.csproj",
       "packagesPath": "C:\\Users\\Antônio Rocha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Antônio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula26\\obj\\",
+      "outputPath": "C:\\Users\\Antônio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aula27\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

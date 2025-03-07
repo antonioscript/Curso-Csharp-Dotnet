@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula26\\",
+  "WorkspaceRootPath": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula26\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B0AF1E2-26A3-4061-9955-AFB8135D537D}|Aula26.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\aula26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B0AF1E2-26A3-4061-9955-AFB8135D537D}|Aula26.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\curso-csharp-dotnet\\aulas\\aula26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B0AF1E2-26A3-4061-9955-AFB8135D537D}|Aula26.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B0AF1E2-26A3-4061-9955-AFB8135D537D}|Aula26.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\aula26\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B0AF1E2-26A3-4061-9955-AFB8135D537D}|Aula26.csproj|c:\\users\\ant\u00F4nio rocha\\source\\repos\\youtube\\curso-csharp-dotnet\\aulas\\aula26\\cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B0AF1E2-26A3-4061-9955-AFB8135D537D}|Aula26.csproj|solutionrelative:cake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Cake.cs",
-              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula26\\Cake.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula26\\Cake.cs",
               "RelativeDocumentMoniker": "Cake.cs",
-              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula26\\Cake.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula26\\Cake.cs",
               "RelativeToolTip": "Cake.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T01:37:45.437Z",
               "EditorCaption": ""
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula26\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula26\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Aula26\\Program.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\source\\repos\\Youtube\\Curso-Csharp-Dotnet\\Aulas\\Aula26\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T01:31:05.305Z",
               "EditorCaption": ""
